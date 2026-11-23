@@ -1,0 +1,419 @@
+﻿musteri_id,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Segment,Pazarlama_Onerisi,Ortalama_Siparis_Tutari
+MUS1001,473,1,979.46,1,1,2,112,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,979.46
+MUS1002,25,4,2180.14,5,4,3,543,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,545.04
+MUS1003,518,4,2117.84,1,4,3,143,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,529.46
+MUS1004,585,2,1454.02,1,1,2,112,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,727.01
+MUS1005,174,3,11854.0,3,3,5,335,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,3951.33
+MUS1006,669,1,2203.48,1,1,3,113,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,2203.48
+MUS1007,513,3,8450.2,1,3,5,135,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,2816.73
+MUS1008,291,4,3041.04,2,4,3,243,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,760.26
+MUS1010,243,2,1233.25,2,1,2,212,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,616.62
+MUS1012,318,2,4988.93,2,1,4,214,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,2494.46
+MUS1013,488,2,1214.48,1,1,2,112,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,607.24
+MUS1014,293,1,542.86,2,1,1,211,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,542.86
+MUS1015,82,4,4025.39,4,4,4,444,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1006.35
+MUS1016,43,5,5509.23,5,5,4,554,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1101.85
+MUS1017,76,8,16053.16,4,5,5,455,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,2006.64
+MUS1018,88,2,2755.5,4,1,3,413,Yeni / Aktif Müşteriler,İlk alışveriş sonrası avantajlar sağlanabilir.,1377.75
+MUS1019,144,1,234.61,3,1,1,311,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,234.61
+MUS1020,24,2,1388.5700000000002,5,1,2,512,Yeni / Aktif Müşteriler,İlk alışveriş sonrası avantajlar sağlanabilir.,694.29
+MUS1021,179,3,3751.9700000000003,3,3,4,334,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,1250.66
+MUS1022,61,4,2483.32,4,4,3,443,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,620.83
+MUS1024,50,3,1910.89,5,3,2,532,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,636.96
+MUS1025,30,2,3289.55,5,1,3,513,Yeni / Aktif Müşteriler,İlk alışveriş sonrası avantajlar sağlanabilir.,1644.78
+MUS1026,217,2,2784.06,2,1,3,213,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1392.03
+MUS1027,61,2,936.86,4,1,1,411,Yeni / Aktif Müşteriler,İlk alışveriş sonrası avantajlar sağlanabilir.,468.43
+MUS1028,62,3,6686.26,4,3,5,435,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,2228.75
+MUS1029,232,2,684.06,2,2,1,221,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,342.03
+MUS1030,95,2,3746.81,4,2,4,424,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,1873.4
+MUS1031,238,2,983.0600000000001,2,2,2,222,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,491.53
+MUS1032,13,5,6147.889999999999,5,5,5,555,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1229.58
+MUS1033,246,6,4418.09,2,5,4,254,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,736.35
+MUS1034,42,4,6442.31,5,4,5,545,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1610.58
+MUS1035,410,2,854.1700000000001,1,2,1,121,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,427.08
+MUS1036,131,5,7766.05,3,5,5,355,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1553.21
+MUS1037,261,5,3989.34,2,5,4,254,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,797.87
+MUS1038,22,4,5425.2699999999995,5,4,4,544,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1356.32
+MUS1040,121,4,5533.4800000000005,3,4,4,344,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1383.37
+MUS1041,18,3,3726.3700000000003,5,3,4,534,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,1242.12
+MUS1042,50,3,2676.48,5,3,3,533,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,892.16
+MUS1043,591,2,1882.8400000000001,1,2,2,122,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,941.42
+MUS1045,82,5,3306.2400000000002,4,5,3,453,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,661.25
+MUS1046,131,4,4621.75,3,4,4,344,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1155.44
+MUS1047,26,1,418.98,5,1,1,511,Yeni / Aktif Müşteriler,İlk alışveriş sonrası avantajlar sağlanabilir.,418.98
+MUS1048,198,1,511.33,3,1,1,311,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,511.33
+MUS1049,146,1,446.07,3,1,1,311,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,446.07
+MUS1050,105,3,3326.34,4,3,3,433,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,1108.78
+MUS1051,190,4,4600.0599999999995,3,4,4,344,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1150.01
+MUS1052,236,2,3295.26,2,2,3,223,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1647.63
+MUS1053,27,1,175.49,5,1,1,511,Yeni / Aktif Müşteriler,İlk alışveriş sonrası avantajlar sağlanabilir.,175.49
+MUS1054,457,1,779.13,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,779.13
+MUS1055,112,2,4874.54,3,2,4,324,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,2437.27
+MUS1056,45,4,1524.93,5,4,2,542,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,381.23
+MUS1057,628,1,271.84,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,271.84
+MUS1058,647,1,371.11,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,371.11
+MUS1060,101,6,6652.86,4,5,5,455,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1108.81
+MUS1061,195,6,18085.47,3,5,5,355,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,3014.25
+MUS1062,104,4,52567.44,4,4,5,445,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,13141.86
+MUS1063,152,3,2388.01,3,3,3,333,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,796.0
+MUS1064,215,4,8623.92,2,4,5,245,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,2155.98
+MUS1065,125,2,1425.62,3,2,2,322,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,712.81
+MUS1066,212,2,2989.63,2,2,3,223,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1494.82
+MUS1067,304,3,2317.27,2,3,3,233,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,772.42
+MUS1068,71,4,3378.73,4,4,3,443,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,844.68
+MUS1069,256,2,742.5699999999999,2,2,1,221,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,371.28
+MUS1070,281,2,806.16,2,2,1,221,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,403.08
+MUS1071,551,2,508.03,1,2,1,121,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,254.02
+MUS1072,26,6,3381.12,5,5,3,553,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,563.52
+MUS1073,150,2,1018.36,3,2,2,322,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,509.18
+MUS1074,106,2,1515.23,4,2,2,422,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,757.62
+MUS1075,205,4,7876.700000000001,3,4,5,345,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1969.18
+MUS1076,52,4,3553.06,5,4,4,544,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,888.26
+MUS1077,12,4,2343.2799999999997,5,4,3,543,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,585.82
+MUS1078,411,2,343.32,1,2,1,121,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,171.66
+MUS1079,36,4,3371.25,5,4,3,543,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,842.81
+MUS1080,44,2,601.0,5,2,1,521,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,300.5
+MUS1081,691,1,279.06,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,279.06
+MUS1083,279,5,3993.59,2,5,4,254,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,798.72
+MUS1084,266,3,652.2,2,3,1,231,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,217.4
+MUS1085,4,1,194.29,5,1,1,511,Yeni / Aktif Müşteriler,İlk alışveriş sonrası avantajlar sağlanabilir.,194.29
+MUS1086,145,5,3547.72,3,5,4,354,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,709.54
+MUS1088,169,1,209.98,3,1,1,311,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,209.98
+MUS1090,82,4,3658.3199999999997,4,4,4,444,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,914.58
+MUS1091,228,2,1463.52,2,2,2,222,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,731.76
+MUS1092,99,3,9246.41,4,3,5,435,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,3082.14
+MUS1093,42,3,2448.47,5,3,3,533,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,816.16
+MUS1095,170,4,11470.05,3,4,5,345,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,2867.51
+MUS1096,265,3,883.25,2,3,1,231,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,294.42
+MUS1097,81,2,3393.31,4,2,3,423,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,1696.66
+MUS1098,487,1,103.27,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,103.27
+MUS1099,194,5,4061.4300000000003,3,5,4,354,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,812.29
+MUS1100,226,1,580.63,2,1,1,211,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,580.63
+MUS1101,482,2,1027.45,1,2,2,122,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,513.72
+MUS1102,134,3,1152.01,3,3,2,332,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,384.0
+MUS1103,29,2,1833.22,5,2,2,522,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,916.61
+MUS1104,630,1,423.52,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,423.52
+MUS1106,27,4,4346.19,5,4,4,544,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1086.55
+MUS1107,198,3,3459.58,3,3,3,333,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,1153.19
+MUS1108,19,4,2222.69,5,4,3,543,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,555.67
+MUS1109,327,1,1662.67,2,1,2,212,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1662.67
+MUS1110,411,2,717.31,1,2,1,121,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,358.66
+MUS1111,100,1,1018.56,4,1,2,412,Yeni / Aktif Müşteriler,İlk alışveriş sonrası avantajlar sağlanabilir.,1018.56
+MUS1112,12,5,6166.92,5,5,5,555,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1233.38
+MUS1113,81,4,3365.61,4,4,3,443,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,841.4
+MUS1114,403,2,1709.6399999999999,1,2,2,122,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,854.82
+MUS1115,61,5,10595.9,4,5,5,455,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,2119.18
+MUS1116,440,1,11196.26,1,1,5,115,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,11196.26
+MUS1117,86,4,1180.72,4,4,2,442,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,295.18
+MUS1118,106,3,1561.24,4,3,2,432,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,520.41
+MUS1119,203,1,658.81,3,1,1,311,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,658.81
+MUS1120,364,2,558.1899999999999,1,2,1,121,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,279.09
+MUS1121,120,2,593.75,3,2,1,321,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,296.88
+MUS1122,110,3,4818.01,4,3,4,434,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,1606.0
+MUS1123,23,3,4635.18,5,3,4,534,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,1545.06
+MUS1124,59,2,1463.79,4,2,2,422,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,731.9
+MUS1125,44,4,2179.19,5,4,3,543,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,544.8
+MUS1126,540,1,363.75,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,363.75
+MUS1127,203,4,6251.59,3,4,5,345,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1562.9
+MUS1128,372,5,1923.81,1,5,2,152,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,384.76
+MUS1129,3,4,1711.74,5,4,2,542,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,427.94
+MUS1130,83,4,2246.19,4,4,3,443,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,561.55
+MUS1131,157,3,2757.0,3,3,3,333,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,919.0
+MUS1134,36,4,4123.18,5,4,4,544,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1030.8
+MUS1136,392,2,976.1500000000001,1,2,2,122,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,488.08
+MUS1137,39,3,1827.57,5,3,2,532,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,609.19
+MUS1138,577,1,1252.06,1,1,2,112,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1252.06
+MUS1139,65,3,925.39,4,3,1,431,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,308.46
+MUS1140,67,4,1522.25,4,4,2,442,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,380.56
+MUS1141,274,3,546.06,2,3,1,231,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,182.02
+MUS1142,619,1,725.51,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,725.51
+MUS1143,141,7,10503.47,3,5,5,355,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1500.5
+MUS1144,547,3,3199.7599999999998,1,3,3,133,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,1066.59
+MUS1145,340,3,6452.32,2,3,5,235,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,2150.77
+MUS1146,176,5,5290.46,3,5,4,354,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1058.09
+MUS1147,145,2,5280.09,3,2,4,324,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,2640.04
+MUS1148,148,4,9383.02,3,4,5,345,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,2345.76
+MUS1149,215,3,22419.43,2,3,5,235,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,7473.14
+MUS1150,559,1,256.12,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,256.12
+MUS1151,32,4,4786.54,5,4,4,544,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1196.64
+MUS1152,55,7,8444.05,4,5,5,455,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1206.29
+MUS1153,106,5,3840.7299999999996,4,5,4,454,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,768.15
+MUS1154,227,3,7759.16,2,3,5,235,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,2586.39
+MUS1155,21,8,40657.64,5,5,5,555,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,5082.2
+MUS1156,651,1,498.69,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,498.69
+MUS1157,69,3,7511.17,4,3,5,435,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,2503.72
+MUS1158,231,2,3044.23,2,2,3,223,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1522.12
+MUS1159,288,2,1789.99,2,2,2,222,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,895.0
+MUS1160,324,2,505.92999999999995,2,2,1,221,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,252.96
+MUS1161,146,4,10182.65,3,4,5,345,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,2545.66
+MUS1162,57,5,6051.860000000001,4,5,5,455,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1210.37
+MUS1163,77,3,3144.63,4,3,3,433,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,1048.21
+MUS1165,8,6,2001.12,5,5,3,553,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,333.52
+MUS1166,663,1,595.31,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,595.31
+MUS1167,204,2,7195.14,3,2,5,325,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,3597.57
+MUS1169,164,5,5511.22,3,5,4,354,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1102.24
+MUS1170,69,5,3386.1899999999996,4,5,3,453,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,677.24
+MUS1171,10,3,21212.73,5,3,5,535,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,7070.91
+MUS1172,19,4,1403.53,5,4,2,542,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,350.88
+MUS1173,87,2,6346.09,4,2,5,425,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,3173.04
+MUS1174,370,1,1179.49,1,1,2,112,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1179.49
+MUS1175,614,1,410.79,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,410.79
+MUS1176,283,3,2991.89,2,3,3,233,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,997.3
+MUS1177,110,8,9046.31,4,5,5,455,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1130.79
+MUS1178,201,1,8375.0,3,1,5,315,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,8375.0
+MUS1179,56,3,6269.59,4,3,5,435,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,2089.86
+MUS1181,180,1,459.85,3,1,1,311,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,459.85
+MUS1182,53,3,7250.22,4,3,5,435,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,2416.74
+MUS1184,722,1,215.25,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,215.25
+MUS1185,229,3,2417.33,2,3,3,233,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,805.78
+MUS1186,26,4,3547.58,5,4,4,544,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,886.9
+MUS1187,60,3,1939.04,4,3,3,433,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,646.35
+MUS1188,33,2,6380.03,5,2,5,525,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,3190.02
+MUS1189,222,5,4270.92,2,5,4,254,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,854.18
+MUS1190,637,1,307.93,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,307.93
+MUS1191,226,2,1295.04,2,2,2,222,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,647.52
+MUS1192,17,3,1900.08,5,3,2,532,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,633.36
+MUS1193,324,3,3557.25,2,3,4,234,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,1185.75
+MUS1194,335,3,8776.98,2,3,5,235,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,2925.66
+MUS1195,621,2,1406.4299999999998,1,2,2,122,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,703.21
+MUS1196,49,2,6175.299999999999,5,2,5,525,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,3087.65
+MUS1197,260,3,8644.18,2,3,5,235,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,2881.39
+MUS1198,373,3,4987.86,1,3,4,134,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,1662.62
+MUS1200,646,2,3084.79,1,2,3,123,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1542.4
+MUS1201,330,2,3136.04,2,2,3,223,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1568.02
+MUS1202,183,5,5730.35,3,5,4,354,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1146.07
+MUS1203,212,5,6628.76,2,5,5,255,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,1325.75
+MUS1204,11,7,7359.469999999999,5,5,5,555,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1051.35
+MUS1205,306,4,6067.04,2,4,5,245,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,1516.76
+MUS1206,41,4,3976.04,5,4,4,544,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,994.01
+MUS1207,203,5,4950.41,3,5,4,354,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,990.08
+MUS1208,120,2,7807.02,3,2,5,325,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,3903.51
+MUS1209,267,1,909.6,2,1,1,211,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,909.6
+MUS1210,55,1,532.06,4,1,1,411,Yeni / Aktif Müşteriler,İlk alışveriş sonrası avantajlar sağlanabilir.,532.06
+MUS1211,204,3,1173.56,3,3,2,332,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,391.19
+MUS1212,144,2,1003.47,3,2,2,322,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,501.74
+MUS1213,30,4,9340.01,5,4,5,545,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,2335.0
+MUS1214,354,2,2961.64,2,2,3,223,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1480.82
+MUS1215,537,2,1251.33,1,2,2,122,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,625.66
+MUS1217,25,4,3084.85,5,4,3,543,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,771.21
+MUS1218,127,3,3811.16,3,3,4,334,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,1270.39
+MUS1219,552,3,1733.22,1,3,2,132,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,577.74
+MUS1220,45,5,2887.46,5,5,3,553,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,577.49
+MUS1221,590,2,13361.27,1,2,5,125,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,6680.64
+MUS1222,644,1,1360.0,1,1,2,112,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1360.0
+MUS1223,145,6,11218.16,3,5,5,355,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1869.69
+MUS1224,448,2,7529.39,1,2,5,125,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,3764.7
+MUS1225,2,3,4085.7200000000003,5,3,4,534,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,1361.91
+MUS1226,79,3,5395.9400000000005,4,3,4,434,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,1798.65
+MUS1227,120,5,4065.09,3,5,4,354,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,813.02
+MUS1228,83,4,5390.51,4,4,4,444,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1347.63
+MUS1229,353,5,6027.98,2,5,5,255,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,1205.6
+MUS1230,549,1,533.78,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,533.78
+MUS1231,64,5,3828.36,4,5,4,454,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,765.67
+MUS1232,122,5,2105.02,3,5,3,353,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,421.0
+MUS1233,141,3,4918.38,3,3,4,334,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,1639.46
+MUS1235,18,3,2802.28,5,3,3,533,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,934.09
+MUS1236,614,1,228.15,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,228.15
+MUS1237,238,4,3267.03,2,4,3,243,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,816.76
+MUS1238,437,4,2944.31,1,4,3,143,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,736.08
+MUS1239,203,2,1112.11,3,2,2,322,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,556.05
+MUS1241,77,4,2668.19,4,4,3,443,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,667.05
+MUS1242,133,2,1359.1999999999998,3,2,2,322,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,679.6
+MUS1243,111,4,4018.4700000000003,4,4,4,444,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1004.62
+MUS1244,74,3,2830.0299999999997,4,3,3,433,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,943.34
+MUS1245,286,3,1357.24,2,3,2,232,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,452.41
+MUS1246,362,2,751.54,1,2,1,121,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,375.77
+MUS1247,46,5,5187.08,5,5,4,554,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1037.42
+MUS1248,5,5,2645.35,5,5,3,553,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,529.07
+MUS1249,71,2,3465.17,4,2,3,423,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,1732.58
+MUS1250,203,3,16256.779999999999,3,3,5,335,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,5418.93
+MUS1251,195,4,4096.05,3,4,4,344,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1024.01
+MUS1252,72,2,764.2,4,2,1,421,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,382.1
+MUS1253,198,7,10112.359999999999,3,5,5,355,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1444.62
+MUS1254,235,3,3060.51,2,3,3,233,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,1020.17
+MUS1255,253,2,740.4100000000001,2,2,1,221,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,370.21
+MUS1256,685,2,1517.69,1,2,2,122,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,758.84
+MUS1257,492,2,2362.7,1,2,3,123,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1181.35
+MUS1259,178,3,3454.1000000000004,3,3,3,333,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,1151.37
+MUS1260,195,6,8587.89,3,5,5,355,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1431.31
+MUS1262,237,3,1927.52,2,3,2,232,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,642.51
+MUS1263,231,2,1108.76,2,2,2,222,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,554.38
+MUS1265,1,2,14131.82,5,2,5,525,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,7065.91
+MUS1266,327,1,292.7,2,1,1,211,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,292.7
+MUS1267,219,1,1442.68,2,1,2,212,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1442.68
+MUS1268,39,4,5028.83,5,4,4,544,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1257.21
+MUS1269,129,3,6022.86,3,3,4,334,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,2007.62
+MUS1271,70,4,3170.15,4,4,3,443,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,792.54
+MUS1272,528,1,2118.62,1,1,3,113,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,2118.62
+MUS1273,52,2,1439.57,4,2,2,422,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,719.78
+MUS1274,11,3,1216.93,5,3,2,532,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,405.64
+MUS1276,67,5,5850.59,4,5,4,454,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1170.12
+MUS1277,169,2,967.72,3,2,1,321,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,483.86
+MUS1278,585,1,543.3,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,543.3
+MUS1279,139,1,830.0,3,1,1,311,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,830.0
+MUS1280,220,1,799.75,2,1,1,211,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,799.75
+MUS1281,163,6,3478.57,3,5,3,353,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,579.76
+MUS1282,131,5,8193.24,3,5,5,355,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1638.65
+MUS1283,55,3,2024.2400000000002,4,3,3,433,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,674.75
+MUS1284,52,5,4493.88,4,5,4,454,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,898.78
+MUS1285,347,4,8309.220000000001,2,4,5,245,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,2077.31
+MUS1286,238,1,218.56,2,1,1,211,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,218.56
+MUS1287,518,3,4572.349999999999,1,3,4,134,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,1524.12
+MUS1288,100,4,5378.49,4,4,4,444,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1344.62
+MUS1289,51,7,5585.99,5,5,4,554,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,798.0
+MUS1290,225,4,7361.870000000001,2,4,5,245,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,1840.47
+MUS1291,500,2,2768.79,1,2,3,123,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1384.4
+MUS1292,98,1,1956.69,4,1,3,413,Yeni / Aktif Müşteriler,İlk alışveriş sonrası avantajlar sağlanabilir.,1956.69
+MUS1293,13,6,5476.01,5,5,4,554,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,912.67
+MUS1294,21,4,1522.27,5,4,2,542,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,380.57
+MUS1295,113,2,1109.97,3,2,2,322,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,554.98
+MUS1296,116,4,1148.0900000000001,3,4,2,342,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,287.02
+MUS1297,463,1,251.28,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,251.28
+MUS1298,623,1,224.09,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,224.09
+MUS1299,132,3,2393.08,3,3,3,333,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,797.69
+MUS1300,270,3,932.23,2,3,1,231,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,310.74
+MUS1301,289,2,3876.89,2,2,4,224,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1938.44
+MUS1302,245,1,370.77,2,1,1,211,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,370.77
+MUS1303,357,2,1160.35,2,2,2,222,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,580.17
+MUS1304,193,3,3782.89,3,3,4,334,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,1260.96
+MUS1305,188,2,2541.99,3,2,3,323,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,1270.99
+MUS1306,76,4,12624.36,4,4,5,445,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,3156.09
+MUS1307,587,1,230.32,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,230.32
+MUS1308,332,2,4895.09,2,2,4,224,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,2447.54
+MUS1309,70,2,566.8199999999999,4,2,1,421,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,283.41
+MUS1310,449,2,1335.01,1,2,2,122,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,667.5
+MUS1311,232,3,963.35,2,3,1,231,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,321.12
+MUS1313,248,4,1428.04,2,4,2,242,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,357.01
+MUS1314,245,6,4641.9,2,5,4,254,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,773.65
+MUS1315,439,2,505.47,1,2,1,121,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,252.74
+MUS1316,238,3,6905.09,2,3,5,235,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,2301.7
+MUS1317,153,6,17423.539999999997,3,5,5,355,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,2903.92
+MUS1318,163,1,251.87,3,1,1,311,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,251.87
+MUS1319,37,3,3924.57,5,3,4,534,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,1308.19
+MUS1320,66,1,1545.92,4,1,2,412,Yeni / Aktif Müşteriler,İlk alışveriş sonrası avantajlar sağlanabilir.,1545.92
+MUS1321,331,2,5159.55,2,2,4,224,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,2579.78
+MUS1322,165,5,6426.67,3,5,5,355,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1285.33
+MUS1323,339,3,3951.66,2,3,4,234,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,1317.22
+MUS1324,74,4,1282.34,4,4,2,442,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,320.58
+MUS1325,49,3,1778.33,5,3,2,532,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,592.78
+MUS1326,103,3,2356.71,4,3,3,433,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,785.57
+MUS1327,1,3,4297.81,5,3,4,534,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,1432.6
+MUS1328,23,5,6177.72,5,5,5,555,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1235.54
+MUS1329,260,5,10346.529999999999,2,5,5,255,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,2069.31
+MUS1330,705,1,2316.0,1,1,3,113,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,2316.0
+MUS1331,20,6,5769.67,5,5,4,554,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,961.61
+MUS1332,6,1,359.09,5,1,1,511,Yeni / Aktif Müşteriler,İlk alışveriş sonrası avantajlar sağlanabilir.,359.09
+MUS1333,33,4,17243.43,5,4,5,545,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,4310.86
+MUS1334,457,1,414.54,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,414.54
+MUS1335,158,1,2973.51,3,1,3,313,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,2973.51
+MUS1336,63,4,2569.25,4,4,3,443,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,642.31
+MUS1337,213,3,4168.5,2,3,4,234,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,1389.5
+MUS1338,139,3,3877.82,3,3,4,334,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,1292.61
+MUS1339,78,5,2296.07,4,5,3,453,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,459.21
+MUS1340,359,4,2252.3,2,4,3,243,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,563.08
+MUS1341,588,1,12094.35,1,1,5,115,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,12094.35
+MUS1342,1,4,7202.5599999999995,5,4,5,545,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1800.64
+MUS1343,643,2,5430.74,1,2,4,124,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,2715.37
+MUS1344,64,3,14761.84,4,3,5,435,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,4920.61
+MUS1345,84,4,3070.6400000000003,4,4,3,443,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,767.66
+MUS1346,121,3,8045.299999999999,3,3,5,335,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,2681.77
+MUS1347,37,4,9893.94,5,4,5,545,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,2473.48
+MUS1348,280,4,9528.71,2,4,5,245,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,2382.18
+MUS1349,78,4,5860.4800000000005,4,4,4,444,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1465.12
+MUS1350,553,2,1376.95,1,2,2,122,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,688.48
+MUS1351,21,4,1952.16,5,4,3,543,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,488.04
+MUS1352,51,6,7041.0,5,5,5,555,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1173.5
+MUS1353,11,8,10636.16,5,5,5,555,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1329.52
+MUS1354,166,3,3577.74,3,3,4,334,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,1192.58
+MUS1356,16,4,1718.98,5,4,2,542,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,429.74
+MUS1357,110,6,12641.550000000001,4,5,5,455,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,2106.93
+MUS1358,252,2,3453.77,2,2,3,223,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1726.88
+MUS1359,62,2,4694.7,4,2,4,424,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,2347.35
+MUS1360,164,7,2279.02,3,5,3,353,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,325.57
+MUS1361,148,3,2800.96,3,3,3,333,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,933.65
+MUS1362,86,3,1925.47,4,3,2,432,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,641.82
+MUS1363,406,1,1491.69,1,1,2,112,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1491.69
+MUS1364,597,2,2294.06,1,2,3,123,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1147.03
+MUS1365,109,2,3483.94,4,2,4,424,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,1741.97
+MUS1366,50,2,1380.1,5,2,2,522,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,690.05
+MUS1367,199,3,1700.92,3,3,2,332,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,566.97
+MUS1368,167,4,5904.82,3,4,4,344,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1476.2
+MUS1369,37,4,2375.16,5,4,3,543,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,593.79
+MUS1370,24,5,4504.65,5,5,4,554,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,900.93
+MUS1371,134,5,41912.79,3,5,5,355,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,8382.56
+MUS1372,168,4,4972.83,3,4,4,344,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1243.21
+MUS1373,149,4,1846.19,3,4,2,342,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,461.55
+MUS1374,82,2,2124.29,4,2,3,423,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,1062.14
+MUS1375,100,1,329.34,4,1,1,411,Yeni / Aktif Müşteriler,İlk alışveriş sonrası avantajlar sağlanabilir.,329.34
+MUS1376,61,2,967.52,4,2,1,421,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,483.76
+MUS1377,122,4,1419.1,3,4,2,342,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,354.78
+MUS1378,392,3,1182.66,1,4,2,142,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,394.22
+MUS1379,20,2,4473.05,5,2,4,524,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,2236.52
+MUS1381,98,2,1513.13,4,2,2,422,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,756.56
+MUS1383,90,5,3036.15,4,5,3,453,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,607.23
+MUS1384,605,1,504.06,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,504.06
+MUS1385,589,1,187.16,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,187.16
+MUS1386,107,3,2399.11,4,4,3,443,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,799.7
+MUS1387,109,4,7506.620000000001,4,5,5,455,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1876.66
+MUS1388,178,4,4240.82,3,5,4,354,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1060.2
+MUS1389,315,2,544.66,2,2,1,221,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,272.33
+MUS1390,12,5,4689.57,5,5,4,554,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,937.91
+MUS1391,418,3,880.61,1,4,1,141,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,293.54
+MUS1392,195,2,1741.65,3,2,2,322,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,870.82
+MUS1393,38,4,2336.29,5,5,3,553,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,584.07
+MUS1394,474,3,23140.14,1,4,5,145,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,7713.38
+MUS1395,25,5,7138.92,5,5,5,555,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1427.78
+MUS1396,70,3,3191.26,4,4,3,443,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1063.75
+MUS1397,250,4,1804.54,2,5,2,252,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,451.14
+MUS1398,462,3,5671.14,1,4,4,144,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,1890.38
+MUS1400,681,1,866.53,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,866.53
+MUS1401,28,4,1657.63,5,5,2,552,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,414.41
+MUS1402,108,2,4064.65,4,2,4,424,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,2032.32
+MUS1403,162,5,3363.1900000000005,3,5,3,353,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,672.64
+MUS1404,61,5,4147.62,4,5,4,454,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,829.52
+MUS1405,706,1,966.96,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,966.96
+MUS1406,364,3,4395.34,1,4,4,144,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,1465.11
+MUS1407,370,3,1930.4699999999998,1,4,3,143,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,643.49
+MUS1408,24,6,3462.04,5,5,3,553,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,577.01
+MUS1409,266,2,5754.139999999999,2,2,4,224,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,2877.07
+MUS1410,264,1,804.86,2,1,1,211,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,804.86
+MUS1411,24,5,4847.27,5,5,4,554,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,969.45
+MUS1412,282,3,1140.3,2,4,2,242,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,380.1
+MUS1413,375,1,524.65,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,524.65
+MUS1414,40,4,9566.46,5,5,5,555,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,2391.61
+MUS1415,14,4,3055.56,5,5,3,553,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,763.89
+MUS1416,367,1,580.98,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,580.98
+MUS1417,121,6,6892.55,3,5,5,355,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1148.76
+MUS1418,354,2,2142.1099999999997,2,2,3,223,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1071.05
+MUS1419,73,2,1127.28,4,2,2,422,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,563.64
+MUS1420,57,5,5885.009999999999,4,5,4,454,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1177.0
+MUS1421,246,3,2017.57,2,4,3,243,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,672.52
+MUS1422,145,4,2101.67,3,5,3,353,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,525.42
+MUS1423,210,1,919.56,2,1,1,211,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,919.56
+MUS1424,167,1,309.0,3,1,1,311,Diğer Müşteriler,Kişiselleştirilmiş ürün önerileri sunulabilir.,309.0
+MUS1425,26,2,1597.03,5,3,2,532,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,798.52
+MUS1426,382,2,1168.47,1,3,2,132,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,584.24
+MUS1427,37,3,1474.62,5,4,2,542,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,491.54
+MUS1428,145,5,10343.67,3,5,5,355,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,2068.73
+MUS1429,109,2,7015.27,4,3,5,435,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,3507.64
+MUS1430,406,2,922.88,1,3,1,131,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,461.44
+MUS1431,5,3,1748.94,5,4,2,542,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,582.98
+MUS1432,326,1,1457.06,2,1,2,212,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1457.06
+MUS1433,77,10,16134.710000000001,4,5,5,455,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1613.47
+MUS1434,284,2,6119.91,2,3,5,235,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,3059.96
+MUS1435,72,8,4975.26,4,5,4,454,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,621.91
+MUS1436,13,2,558.11,5,3,1,531,Potansiyel Sadıklar,Tekrar alışverişi teşvik eden kampanyalar hazırlanabilir.,279.06
+MUS1437,142,4,5010.25,3,5,4,354,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,1252.56
+MUS1438,291,1,431.82,2,1,1,211,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,431.82
+MUS1439,401,2,1466.3600000000001,1,3,2,132,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,733.18
+MUS1440,60,8,13253.52,4,5,5,455,Şampiyonlar,VIP avantajları ve özel ödüller sunulabilir.,1656.69
+MUS1441,509,1,785.37,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,785.37
+MUS1442,16,3,1740.16,5,4,2,542,Sadık Müşteriler,Sadakat programları ve kişisel indirimler uygulanabilir.,580.05
+MUS1443,451,1,1317.73,1,1,2,112,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,1317.73
+MUS1444,589,2,1462.93,1,3,2,132,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,731.46
+MUS1445,45,1,983.32,5,1,2,512,Yeni / Aktif Müşteriler,İlk alışveriş sonrası avantajlar sağlanabilir.,983.32
+MUS1446,271,6,9069.6,2,5,5,255,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,1511.6
+MUS1447,205,4,6299.530000000001,2,5,5,255,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,1574.88
+MUS1448,293,2,1526.55,2,3,2,232,Risk Altındakiler,Geri kazanım kampanyaları ve hatırlatma mesajları gönderilebilir.,763.28
+MUS1449,395,1,528.22,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,528.22
+MUS1450,577,1,446.24,1,1,1,111,Kaybedilen Müşteriler,Yeniden kazanım teklifleri değerlendirilebilir.,446.24
